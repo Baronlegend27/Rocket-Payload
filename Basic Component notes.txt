@@ -5,6 +5,7 @@ CP2102N-A02-GQFN28(BRIDGE)
 
 
 ICM-42670-P(IMU)
+New IMU: "ADXL345"-EP 
 
 TLV1117LV33DCYR(Regulator)
 
@@ -12,3 +13,5 @@ SP0503BAHTG(TVS)
 
 
 There is an issue with how the USD and the battery will work together. 
+
+Design the buck converter after the MAX77859
