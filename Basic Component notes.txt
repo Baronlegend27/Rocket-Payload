@@ -17,6 +17,10 @@ TLV1117LV33DCYR(Regulator)
 
 SP0503BAHTG(TVS)
 
+MSD-4-A(MICRO SD CARD holder)
+
+Buck converter diode: (MBR40250TG)
+
 
 There is an issue with how the USD and the battery will work together. 
 
