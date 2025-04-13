@@ -6,6 +6,12 @@ CP2102N-A02-GQFN28(BRIDGE)
 
 ICM-42670-P(IMU)
 New IMU: "ADXL345"-EP 
+To enable ADXL345 for I2c
+CS: tie to VCC
+SDA: connect to microcontroller SDA
+SCL: Connect to microcontroller SCL
+SDO: connect to GND or VCC to set i2c address
+
 
 TLV1117LV33DCYR(Regulator)
 
