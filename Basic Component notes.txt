@@ -25,3 +25,5 @@ Buck converter diode: (MBR40250TG)
 There is an issue with how the USD and the battery will work together. 
 
 Design the buck converter after the MAX77859
+
+The output capacitance should be 120uf[594D127X0020R2T] and the input should have a 100uf (electrolytic)[35YXJ100M6.3X11] and 10-22 uf (ceramic)[GRM21BR61E106KA73L] cap
